@@ -6,8 +6,7 @@ Notes & Solutions & Code for learning [`Reinforcement Learning`](https://en.wiki
 and Andrew G. Barto
 
 - [x] [Chapter 1](/Chap1.ipynb)
-- [ ] [**Chapter 2*
-*](/Chap2.ipynb)
+- [ ] [**Chapter 2**](/Chap2.ipynb)
 - [ ] [Chapter 3](/Chap3.ipynb)
 - [ ] [Chapter 4](/Chap4.ipynb)
 - [ ] [Chapter 5](/Chap5.ipynb)
