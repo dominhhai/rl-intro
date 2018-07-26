@@ -5,23 +5,24 @@ Notes & Solutions & Code for learning [`Reinforcement Learning`](https://en.wiki
 [Reinforcement Learning: An Introduction](http://incompleteideas.net/book/the-book-2nd.html) by Richard S. Sutton 
 and Andrew G. Barto
 
-- [Chapter 1](/Chap1.ipynb)
-- [Chapter 2](/Chap2.ipynb)
-- [Chapter 3](/Chap3.ipynb)
-- [Chapter 4](/Chap4.ipynb)
-- [Chapter 5](/Chap5.ipynb)
-- [Chapter 6](/Chap6.ipynb)
-- [Chapter 7](/Chap7.ipynb)
-- [Chapter 8](/Chap8.ipynb)
-- [Chapter 9](/Chap9.ipynb)
-- [Chapter 10](/Chap10.ipynb)
-- [Chapter 11](/Chap11.ipynb)
-- [Chapter 12](/Chap12.ipynb)
-- [Chapter 13](/Chap13.ipynb)
-- [Chapter 14](/Chap14.ipynb)
-- [Chapter 15](/Chap15.ipynb)
-- [Chapter 16](/Chap16.ipynb)
-- [Chapter 17](/Chap17.ipynb)
+- [x] [Chapter 1](/Chap1.ipynb)
+- [ ] [**Chapter 2*
+*](/Chap2.ipynb)
+- [ ] [Chapter 3](/Chap3.ipynb)
+- [ ] [Chapter 4](/Chap4.ipynb)
+- [ ] [Chapter 5](/Chap5.ipynb)
+- [ ] [Chapter 6](/Chap6.ipynb)
+- [ ] [Chapter 7](/Chap7.ipynb)
+- [ ] [Chapter 8](/Chap8.ipynb)
+- [ ] [Chapter 9](/Chap9.ipynb)
+- [ ] [Chapter 10](/Chap10.ipynb)
+- [ ] [Chapter 11](/Chap11.ipynb)
+- [ ] [Chapter 12](/Chap12.ipynb)
+- [ ] [Chapter 13](/Chap13.ipynb)
+- [ ] [Chapter 14](/Chap14.ipynb)
+- [ ] [Chapter 15](/Chap15.ipynb)
+- [ ] [Chapter 16](/Chap16.ipynb)
+- [ ] [Chapter 17](/Chap17.ipynb)
 
 # Install
 ```
