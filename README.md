@@ -1,5 +1,5 @@
 # RL intro
-Notes & Solutions & Code for learning Reinforcement Learning
+Notes & Solutions & Code for learning [`Reinforcement Learning`](https://en.wikipedia.org/wiki/Reinforcement_learning)
 
 # Textbook
 [Reinforcement Learning: An Introduction](http://incompleteideas.net/book/the-book-2nd.html) by Richard S. Sutton 
@@ -27,6 +27,7 @@ and Andrew G. Barto
 ```
 $ pip install virutalenv
 $ virutalenv .venv
+$ source .venv/bin/activate
 $ pip install -r requirements.txt
 ```
 
@@ -39,7 +40,6 @@ $ jupyter notebook
 # Halt
 ```
 $ deactivate
-$ jupyter notebook
 ```
 
 # Other Resources
