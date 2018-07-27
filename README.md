@@ -8,7 +8,7 @@ and Andrew G. Barto
 - [x] [Chapter 1](/chap1.ipynb)
 - [x] [Chapter 2](/chap2.ipynb)
   - [ ] [**Solutions & Code**](/chap2-solutions.ipynb)
-- [ ] [Chapter 3](/chap3.ipynb)
+- [ ] [**Chapter 3**](/chap3.ipynb)
 - [ ] [Chapter 4](/chap4.ipynb)
 - [ ] [Chapter 5](/chap5.ipynb)
 - [ ] [Chapter 6](/chap6.ipynb)
