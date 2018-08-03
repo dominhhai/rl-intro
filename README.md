@@ -44,6 +44,7 @@ $ deactivate
 ```
 
 # Other Resources
+- [0] [Download link](https://drive.google.com/file/d/1xeUDVGWGUUv1-ccUMAZHJLej2C7aAFWY/view)
 - [1] [UCL Course on RL](http://www0.cs.ucl.ac.uk/staff/d.silver/web/Teaching.html)
 - [2] [つくりながら学ぶ！深層強化学習](https://github.com/YutaroOgawa/Deep-Reinforcement-Learning-Book)
 - [3] [Awesome Reinforcement Learning](https://github.com/aikorea/awesome-rl)
