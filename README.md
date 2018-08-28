@@ -10,6 +10,7 @@ and Andrew G. Barto
   - [x] [Solutions & Code](/chap2-solutions.ipynb)
 - [x] [Chapter 3](/chap3.ipynb)
 - [x] [Chapter 4](/chap4.ipynb)
+  - [ ] [**Solutions & Code**](/chap4-solutions.ipynb)
 - [x] [Chapter 5](/chap5.ipynb)
 - [x] [Chapter 6](/chap6.ipynb)
 - [x] [Chapter 7](/chap7.ipynb)
